@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Academy of the Holy Names</key>
+	<array>
+		<string>3319 Bayshore Blvd, Tampa, FL 33629</string>
+	</array>
+	<key>Berkely Prep</key>
+	<array>
+		<string>4811 Kelly Rd, Tampa, FL 33615</string>
+	</array>
+	<key>Blake High School</key>
+	<array>
+		<string>1701 N Blvd, Tampa, FL 33607</string>
+	</array>
+	<key>Bobby Hicks Pool</key>
+	<array>
+		<string>4120 W Mango Ave, Tampa, FL 33616</string>
+	</array>
+	<key>Booker High School</key>
+	<array>
+		<string>3201 N Orange Ave, Sarasota, FL 34234</string>
+	</array>
+	<key>Cambridge School</key>
+	<array>
+		<string>6101 N Habana Ave, Tampa, FL 33614</string>
+	</array>
+</dict>
+</plist>

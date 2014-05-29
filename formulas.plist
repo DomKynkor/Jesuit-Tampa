@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Centripetal Acceleration</key>
+	<array>
+		<string>Centripetal Acceleration</string>
+		<string>Velocity</string>
+		<string>Radius</string>
+	</array>
+	<key>F=MA</key>
+	<array>
+		<string>Force</string>
+		<string>Acceleration</string>
+		<string>Mass</string>
+	</array>
+	<key>Gpe</key>
+	<array>
+		<string>Gpe</string>
+		<string>Height</string>
+		<string>Mass</string>
+	</array>
+	<key>Hooke&apos;s Law</key>
+	<array>
+		<string>Elastic Potential Energy</string>
+		<string>Displacement</string>
+		<string>Spring Constant</string>
+	</array>
+	<key>Ke</key>
+	<array>
+		<string>Kinetic Energy</string>
+		<string>Mass</string>
+		<string>Velocity</string>
+	</array>
+	<key>Mechanical Energy</key>
+	<array>
+		<string>Mechanical Energy</string>
+		<string>Kinetic Energy</string>
+		<string>Potential Energy</string>
+	</array>
+	<key>Ohm&apos;s Law</key>
+	<array>
+		<string>Resistance</string>
+		<string>Voltage</string>
+		<string>Current</string>
+	</array>
+	<key>Pressure</key>
+	<array>
+		<string>Pressure</string>
+		<string>Force</string>
+		<string>Area</string>
+	</array>
+	<key>Torque</key>
+	<array>
+		<string>Torque</string>
+		<string>Arm Length</string>
+		<string>Force</string>
+	</array>
+</dict>
+</plist>
